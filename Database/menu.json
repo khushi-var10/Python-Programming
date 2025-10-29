@@ -1,0 +1,188 @@
+{
+  "Morning": [
+    {
+      "id": 1,
+      "name": "Tea",
+      "half_price": 10,
+      "full_price": 15
+    },
+    {
+      "id": 2,
+      "name": "Coffee",
+      "half_price": 20,
+      "full_price": 30
+    },
+    {
+      "id": 3,
+      "name": "Poha",
+      "half_price": 25,
+      "full_price": 40
+    },
+    {
+      "id": 4,
+      "name": "Upma",
+      "half_price": 30,
+      "full_price": 50
+    },
+    {
+      "id": 5,
+      "name": "Idli Sambhar",
+      "half_price": 40,
+      "full_price": 70
+    },
+    {
+      "id": 6,
+      "name": "Dosa Plain",
+      "half_price": 50,
+      "full_price": 80
+    },
+    {
+      "id": 7,
+      "name": "Masala Dosa",
+      "half_price": 70,
+      "full_price": 100
+    },
+    {
+      "id": 8,
+      "name": "Aloo Paratha",
+      "half_price": 40,
+      "full_price": 70
+    },
+    {
+      "id": 9,
+      "name": "Puri Bhaji",
+      "half_price": 50,
+      "full_price": 90
+    },
+    {
+      "id": 10,
+      "name": "Sandwich",
+      "half_price": 35,
+      "full_price": 60
+    }
+  ],
+  "Lunch": [
+    {
+      "id": 11,
+      "name": "Dal Tadka",
+      "half_price": 80,
+      "full_price": 140
+    },
+    {
+      "id": 12,
+      "name": "Paneer Butter Masala",
+      "half_price": 120,
+      "full_price": 200
+    },
+    {
+      "id": 13,
+      "name": "Mix Veg Curry",
+      "half_price": 90,
+      "full_price": 150
+    },
+    {
+      "id": 14,
+      "name": "Jeera Rice",
+      "half_price": 70,
+      "full_price": 110
+    },
+    {
+      "id": 15,
+      "name": "Veg Biryani",
+      "half_price": 100,
+      "full_price": 160
+    },
+    {
+      "id": 16,
+      "name": "Butter Roti",
+      "half_price": 10,
+      "full_price": 20
+    },
+    {
+      "id": 17,
+      "name": "Plain Naan",
+      "half_price": 20,
+      "full_price": 30
+    },
+    {
+      "id": 18,
+      "name": "Stuffed Naan",
+      "half_price": 30,
+      "full_price": 50
+    },
+    {
+      "id": 19,
+      "name": "Raita",
+      "half_price": 25,
+      "full_price": 40
+    },
+    {
+      "id": 20,
+      "name": "Green Salad",
+      "half_price": 25,
+      "full_price": 40
+    }
+  ],
+  "Dinner": [
+    {
+      "id": 21,
+      "name": "Shahi Paneer",
+      "half_price": 130,
+      "full_price": 210
+    },
+    {
+      "id": 22,
+      "name": "Dal Makhani",
+      "half_price": 100,
+      "full_price": 160
+    },
+    {
+      "id": 23,
+      "name": "Kadhai Paneer",
+      "half_price": 120,
+      "full_price": 190
+    },
+    {
+      "id": 24,
+      "name": "Malai Kofta",
+      "half_price": 110,
+      "full_price": 180
+    },
+    {
+      "id": 25,
+      "name": "Tandoori Roti",
+      "half_price": 10,
+      "full_price": 20
+    },
+    {
+      "id": 26,
+      "name": "Butter Naan",
+      "half_price": 20,
+      "full_price": 30
+    },
+    {
+      "id": 27,
+      "name": "Veg Fried Rice",
+      "half_price": 90,
+      "full_price": 150
+    },
+    {
+      "id": 28,
+      "name": "Manchurian Gravy",
+      "half_price": 100,
+      "full_price": 160
+    },
+    {
+      "id": 29,
+      "name": "Ice Cream (Vanilla)",
+      "half_price": 30,
+      "full_price": 50
+    },
+    {
+      "id": 30,
+      "name": "Gulab Jamun",
+      "half_price": 25,
+      "full_price": 40
+    }
+  ]
+}

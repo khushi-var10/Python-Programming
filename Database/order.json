@@ -1,0 +1,28 @@
+[
+  {
+    "receptionist": "khushi",
+    "items": [
+      {
+        "id": 11,
+        "name": "Dal Tadka",
+        "size": "half",
+        "qty": 2,
+        "unit_price": 80,
+        "subtotal": 160
+      },
+      {
+        "id": 14,
+        "name": "Jeera Rice",
+        "size": "full",
+        "qty": 2,
+        "unit_price": 110,
+        "subtotal": 220
+      }
+    ],
+    "total": 380,
+    "tax": 19.0,
+    "grand_total": 399.0,
+    "date": "2025-10-25 14:50:14",
+    "id": 1
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "khushi",
+    "email": "khushi@gmail.com",
+    "password": "123123",
+    "role": "reception"
+  },
+  {
+    "name": "neha",
+    "email": "neha@gmail.com",
+    "password": "neha123123",
+    "role": "reception"
+  }
+]
